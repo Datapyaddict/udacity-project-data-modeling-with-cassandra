@@ -16,7 +16,7 @@ This is done through a jupyter notebook.
 
 The steps of the process are :
 - load the csv files stored in `event_data` folder,
-- produce a single file `event_datafile_new.csv` containing all the data from the csv files with the columns describes in `/images/image_event_datafile_new.jpg"`
+- produce a single file `event_datafile_new.csv` containing all the data from the csv files with the columns described in `/images/image_event_datafile_new.jpg"`
 
 
 
